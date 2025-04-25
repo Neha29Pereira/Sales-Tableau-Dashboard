@@ -8,19 +8,29 @@ The dataset used in this project represents transactional and demographic data f
 
 Key Highlights:
 -> Order ID: It is used to uniquely identify an order and it can appear multiple times for different products.
+
 -> Order Date: It captures when the order was placed.
+
 -> Customer ID & Name: It helps to identify and segment customers.
+
 -> Product ID, Category & Sub-Category: It is used to define each product and its classification (e.g., Furniture, Electronics, Food).
+
 -> Sales, Profit & Quantity: It gives Key financial metrics for analysis.
+
 -> Geographic Info: It Includes city, state, postal code, and region (Central, East, South, West).
+
 -> Customer Segment: For Corporate, Consumer, or Home Office.
 
 # 🧠Aim of the project
+
 -> To Analyze the relationship between sales, profit, and product categories.
 and understand customer needs, demands, and behavior when buying.
+
 -> Also, we will provide a geographic breakdown of performance metrics by region and state.
+
 -> And Identify top-performing products, sales leaders, and key categories.
-We will Visualize trends, patterns, and key performance indicators (KPIs) via an interactive dashboard.
+
+-> Visualize trends, patterns, and key performance indicators (KPIs) via an interactive dashboard.
 
 # 📊FEATURES IN DASHBOARD 
 -> ✅ Total Sales, Profit, and Order Volume
@@ -37,6 +47,7 @@ We will Visualize trends, patterns, and key performance indicators (KPIs) via an
 
 # ⚠️ Constraints
 -> An OrderID might appear many times because each order can contain multiple products.
+
 -> Also, some fields can contain repititions that can be handled while data-cleaning.
 
 # 📌 TECHNOLOGIES USED
@@ -50,7 +61,10 @@ We will Visualize trends, patterns, and key performance indicators (KPIs) via an
 
 # 📈GAINED INSIGHTS
 ->The total sales revenue exceeded $2.29M.
+
 -> Regions like West and East led in terms of total profit.
+
 -> Certain categories and sub-categories (e.g., Chairs, Technology) drove higher margins.
+
 -> Customer segments show differing preferences and buying patterns.
 
