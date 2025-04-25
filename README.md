@@ -1,10 +1,10 @@
 # Sales-Tableau-Dashboard
-# OVERVIEW
+# Overview
 In today's competitive world, data is the new lifeline of business intelligence. However, understanding the relationship between sales, profit, and product performance can be a bit difficult for retailers and business owners. This project aims to cover that gap through a comprehensive Sales Dashboard powered by a rich dataset from a Superstore.
 Our goal is to provide important insights into sales trends, customer behavior, and product performance using visual analytics and statistical breakdowns. This will help businesses make data-driven decisions, refine their strategies, and ultimately enhance profitability.
 The dataset used in this project represents transactional and demographic data from a Superstore. Each row corresponds to a unique product within an order and contains details like customer information, product details, financial metrics, and shipping logistics.
 
-# ABOUT DATASET
+# 📁ABOUT DATASET
 
 Key Highlights:
 -> Order ID: It is used to uniquely identify an order and it can appear multiple times for different products.
@@ -15,14 +15,14 @@ Key Highlights:
 -> Geographic Info: It Includes city, state, postal code, and region (Central, East, South, West).
 -> Customer Segment: For Corporate, Consumer, or Home Office.
 
-# AIM OF THE PROJECT
+# 🧠Aim of the project
 -> To Analyze the relationship between sales, profit, and product categories.
 and understand customer needs, demands, and behavior when buying.
 -> Also, we will provide a geographic breakdown of performance metrics by region and state.
 -> And Identify top-performing products, sales leaders, and key categories.
 We will Visualize trends, patterns, and key performance indicators (KPIs) via an interactive dashboard.
 
-# FEATURES IN DASHBOARD 
+# 📊FEATURES IN DASHBOARD 
 -> ✅ Total Sales, Profit, and Order Volume
 
 -> 📌 Regional and State-level Performance Breakdown
@@ -35,11 +35,11 @@ We will Visualize trends, patterns, and key performance indicators (KPIs) via an
 
 -> 📦 Customer Segmentation Analysis
 
-# Constraints
+# ⚠️ Constraints
 -> An OrderID might appear many times because each order can contain multiple products.
 -> Also, some fields can contain repititions that can be handled while data-cleaning.
 
-# TECHNOLOGIES USED
+# 📌 TECHNOLOGIES USED
 -> Python / Pandas / NumPy
 
 -> Power BI / Tableau (for dashboard visualization)
@@ -48,7 +48,7 @@ We will Visualize trends, patterns, and key performance indicators (KPIs) via an
 
 -> Matplotlib / Seaborn (for EDA)
 
-# GAINED INSIGHTS
+# 📈GAINED INSIGHTS
 ->The total sales revenue exceeded $2.29M.
 -> Regions like West and East led in terms of total profit.
 -> Certain categories and sub-categories (e.g., Chairs, Technology) drove higher margins.
